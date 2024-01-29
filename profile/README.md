@@ -27,7 +27,7 @@ Xây dựng môi trường trao đổi học tập qua forum trò chuyện. Tíc
 
 ## Documentation
 
-[Documentation - Đang xây dựng](https://github.com/FPTU-s-Friends)
+[Software Design Document](https://docs.google.com/document/d/100svJjytMkGBTT4i-KDvoF1DIXKZctRp3h0LHXu8ykU/edit?usp=sharing)
 
 
 ## Roadmap
