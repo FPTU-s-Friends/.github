@@ -103,6 +103,11 @@ Thanks goes to these wonderful people
         <br /><sub><b>Đinh Gia Bảo</b></sub>
         <br />
       </td>
+       <td align="center" valign="top" width="14.28%">
+        <img src="https://avatars.githubusercontent.com/u/116641540?v=4" width="100px;" alt="Trần Quang Minh"/>
+        <br /><sub><b>Trần Quang Minh</b></sub>
+        <br />
+      </td>
     </tr>
   </tbody>
 </table>
