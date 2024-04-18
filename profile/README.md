@@ -103,11 +103,6 @@ Thanks goes to these wonderful people
         <br /><sub><b>Đinh Gia Bảo</b></sub>
         <br />
       </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="https://firebasestorage.googleapis.com/v0/b/nha-trang-ntne.appspot.com/o/Unicourse%20Project%2Fuser6.jpg?alt=media&token=b0fcd42e-feaf-4918-bcc2-58f9c07ec3ef?v=3?s=100" width="100px;" alt="Nguyễn Ngọc Ánh Linh"/>
-        <br /><sub><b>Nguyễn Ngọc Ánh Linh</b></sub>
-        <br />
-      </td>
     </tr>
   </tbody>
 </table>
